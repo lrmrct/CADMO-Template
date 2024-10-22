@@ -5,5 +5,5 @@ My quick and dirty translation of the CADMO thesis template into Typst, which I 
 - Add missing text.
 - Exact margins and font sizes.
 - Section headers.
-- Insert Q.E.D. into math body
+- Insert Q.E.D. into math body.
 - Showcase visualizations.
