@@ -1,0 +1,20 @@
+bringhurst1996ets:
+  type: Book
+  title: The Elements of Typographic Style
+  author: Bringhurst, Robert
+  date: 1996
+  publisher: Hartley & Marks
+
+einstein1935can:
+    type: article
+    title: Can quantum-mechanical description of physical reality be considered complete?
+    author: 
+      - Einstein, Albert 
+      - Podolsky, Boris 
+      - Rosen, Nathan
+    organization: Physical review
+    volume: 47
+    issue: 10
+    page-total: 770
+    date: 1935
+    publisher: APS
